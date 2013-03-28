@@ -1,4 +1,4 @@
-(defproject strongbox "1.0"
+(defproject strongbox "0.1"
   :description "GUI for gpg encrypting files"
   :url "https://github.com/pnathan/strongbox"
   :license {:name "AGPL3"
